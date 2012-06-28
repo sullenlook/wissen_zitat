@@ -1,0 +1,20 @@
+WISSEN UND ZITAT PLUGIN IN DEUTSCH
+
+
+Sag einfach "Wissen" und Siri erzählt Dir irgendetwas.
+Sag einfach "Zitat" und Siri erzählt Dir ein zufälliges Zitat.
+
+
+Clone wissen_zitat in Dein plugins Ordner.
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        https://github.com/sullenlook/wissen_zitat.git
+
+
+Füge folgendes in plugins.conf:
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+
+        wissen_zitat
+
+
+FERTIG
